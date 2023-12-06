@@ -1,0 +1,1 @@
+The telegram bot that responds only to a video message (circle). The response to the video message is a text transcript of the video message
